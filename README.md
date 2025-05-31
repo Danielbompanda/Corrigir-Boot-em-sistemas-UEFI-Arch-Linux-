@@ -65,7 +65,5 @@ chmod +x fixuefiboot.sh
 E execute após instalar o GRUB.
 
 
----
-
-Se quiser, posso gerar um PDF ou HTML bonitinho com isso.
+--
 
